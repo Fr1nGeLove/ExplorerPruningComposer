@@ -1,0 +1,8 @@
+
+# Project outputs / secrets
+results/
+keys/
+bash_log/
+tmp/
+dataset/livecodebench/install/cache/
+dataset/*/install/.venv/
